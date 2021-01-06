@@ -24,14 +24,14 @@ export class AppComponent {
   // prettier-ignore
   private readonly user = rootUser(
     relUserCompany(
-      // UNCOMMENT THIS
+      // // UNCOMMENT THIS
       // relCompanyStaff(
       //   relUserCompany(
       //     relCompanyAdmin(),
       //   ),
       // ),
       relCompanyAddress(
-        // UNCOMMENT THIS
+        // // UNCOMMENT THIS
         // relAddressCompany(
         //   relCompanyAdmin(
         //     relUserCompany(
