@@ -21,6 +21,8 @@
             "index": "src/index.html",
             "main": "src/main.ts",
             "aot": true,
+            "optimization": true,
+            "buildOptimizer": true,
             "progress": false,
             "tsConfig": "tsconfig.json"
           }
