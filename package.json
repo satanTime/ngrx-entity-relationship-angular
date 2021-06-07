@@ -20,7 +20,7 @@
     "@ngrx/entity": "12.0.0",
     "@ngrx/store": "12.0.0",
     "core-js": "3.14.0",
-    "ngrx-entity-relationship": "1.5.1",
+    "ngrx-entity-relationship": "1.6.0",
     "rxjs": "6.6.7",
     "tslib": "2.2.0",
     "zone.js": "0.11.4"
