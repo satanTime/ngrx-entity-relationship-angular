@@ -2,7 +2,7 @@ version: 2.1
 jobs:
   Core:
     docker:
-      - image: satantime/puppeteer-node:16.3.0-buster-slim
+      - image: satantime/puppeteer-node:16.4.2-buster-slim
     steps:
       - checkout
       - restore_cache:
