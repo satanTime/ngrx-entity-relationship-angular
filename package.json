@@ -29,7 +29,7 @@
     "@angular-devkit/build-angular": "12.2.15",
     "@angular/cli": "12.2.15",
     "@angular/compiler-cli": "12.2.15",
-    "@types/node": "16.11.19",
+    "@types/node": "16.11.20",
     "husky": "7.0.4",
     "prettier": "2.5.1",
     "ts-node": "10.4.0",
