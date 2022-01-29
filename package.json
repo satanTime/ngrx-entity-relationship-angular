@@ -57,6 +57,9 @@
     "additionalBranchPrefix": "{{#if baseDir}}{{baseDir}}/{{else}}root/{{/if}}",
     "reviewers": [
       "satanTime"
-    ]
+    ],
+    "vulnerabilityAlerts": {
+      "enabled": false
+    }
   }
 }
