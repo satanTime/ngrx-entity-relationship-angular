@@ -31,7 +31,7 @@
     "@angular/compiler-cli": "12.2.16",
     "@types/node": "16.11.26",
     "husky": "7.0.4",
-    "prettier": "2.6.1",
+    "prettier": "2.6.2",
     "ts-node": "10.7.0",
     "typescript": "4.3.5"
   },
