@@ -19,7 +19,7 @@
     "@ngrx/effects": "13.2.0",
     "@ngrx/entity": "13.2.0",
     "@ngrx/store": "13.2.0",
-    "core-js": "3.25.1",
+    "core-js": "3.38.1",
     "ngrx-entity-relationship": "1.7.1",
     "rxjs": "7.5.6",
     "tslib": "2.4.0",
